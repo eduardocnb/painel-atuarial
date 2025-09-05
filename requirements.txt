@@ -1,0 +1,6 @@
+streamlit>=1.32
+pandas>=2.1
+openpyxl>=3.1
+altair>=5.3
+msoffcrypto-tool>=5.4
+numpy>=1.26
